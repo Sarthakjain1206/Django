@@ -1,0 +1,16 @@
+python manage.py startproject
+
+python manage.py runserver
+
+python manage.py makemigrations
+
+// It will create all basic databases required
+python manage.py migrate
+
+// Create user to access django admin page
+python manage.py createsuperuser
+
+
+
+USERNAME: SarthakJain
+PASSWORD: Qwerty123$ or qwerty123$
